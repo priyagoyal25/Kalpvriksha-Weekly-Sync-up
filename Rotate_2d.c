@@ -1,4 +1,3 @@
-// Rotate row-wise
 #include <stdio.h>
 
 void ackw_rotate_column(int size, int arr[size][size]){
